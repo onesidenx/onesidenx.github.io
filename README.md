@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/7JLy.mp4)]
+https://i.gifer.com/7Zvv.gif
 
 <h1 align="center">Hi there, I'm Oneside</h1>
 <h3 align="center">Just a random dude ;)</h3>
@@ -17,11 +17,11 @@
 
 _Dms are cloesd so you can join this minimilistic server_
 
-[RetroScream](https://discord.gg/JXvPJ6mkXS)
-
 
 
 <h3 align="left">Connect with me:</h3>
+[RetroScream](https://discord.gg/JXvPJ6mkXS)
+
 <p align="left">
 </p>
 
