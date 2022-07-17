@@ -1,5 +1,5 @@
 
-<p align="centre"> <img src ="https://i.gifer.com/7JLy.gif" width="400" height="300">
+<p align="centre"> <img src ="https://i.gifer.com/7Zvv.gif" width="1000" height="400">
 
 
 <h1 align="center">Hi there, I'm Oneside</h1>
