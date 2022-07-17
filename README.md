@@ -1,5 +1,5 @@
-![..](https://i.gifer.com/7Zvv.gif)
 
+<p align="centre"> <img src ="https://i.gifer.com/7JLy.gif" width="400" height="300">
 
 
 <h1 align="center">Hi there, I'm Oneside</h1>
@@ -12,17 +12,16 @@
 - 📫 How to reach me **onesidegamespot@gmail.com**
 
 - ⚡ Fun fact **I use ARCH btw**
+
 <p align="left"> <img src ="https://i.gifer.com/7JLy.gif">
-
-**My discord id**
-- Oneside=_=#6891
-
-_Dms are cloesd so you can join this minimilistic server_
-
 
 
 <h3 align="left">Connect with me:</h3>
 [RetroScream](https://discord.gg/JXvPJ6mkXS)
+**My discord id**
+- Oneside=_=#6891
+
+_Dms are cloesd so you can join this minimilistic server_
 
 <p align="left">
 </p>
