@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/7JLy.mp4)](https://onesidenx.github.io)
+[![MasterHead](https://i.gifer.com/7JLy.mp4)]
 
 <h1 align="center">Hi there, I'm Oneside</h1>
 <h3 align="center">Just a random dude ;)</h3>
