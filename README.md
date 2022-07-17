@@ -5,15 +5,15 @@
 <h1 align="center">Hi there, I'm Oneside</h1>
 <h3 align="center">Just a random dude ;)</h3>
 <p>
-- 🌱 I’m currently learning **python, html, css, linux**
+- 🌱 I’m currently learning: <strong>Python, html, CSS, Linux</strong>
 </p>
 
 <p>
-- 💬 Ask me about **ethical hacking (lil bit)**
+- 💬 Ask me about: <strong>Ethical Hacking (lil bit)</strong>
 </p>
 
 <p>
-- 📫 How to reach me **onesidegamespot@gmail.com**
+- 📫 How to reach me: 
 </p>
 
 <p>
