@@ -1,4 +1,6 @@
-https://i.gifer.com/7Zvv.gif
+![..](https://i.gifer.com/7Zvv.gif)
+
+
 
 <h1 align="center">Hi there, I'm Oneside</h1>
 <h3 align="center">Just a random dude ;)</h3>
@@ -10,7 +12,7 @@ https://i.gifer.com/7Zvv.gif
 - 📫 How to reach me **onesidegamespot@gmail.com**
 
 - ⚡ Fun fact **I use ARCH btw**
-
+<p align="left"> <img src ="https://i.gifer.com/7JLy.gif">
 
 **My discord id**
 - Oneside=_=#6891
