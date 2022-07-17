@@ -4,14 +4,22 @@
 
 <h1 align="center">Hi there, I'm Oneside</h1>
 <h3 align="center">Just a random dude ;)</h3>
-
+<p>
 - 🌱 I’m currently learning **python, html, css, linux**
+</p>
 
+<p>
 - 💬 Ask me about **ethical hacking (lil bit)**
+</p>
 
+<p>
 - 📫 How to reach me **onesidegamespot@gmail.com**
+</p>
 
+<p>
 - ⚡ Fun fact **I use ARCH btw**
+</p>
+
 
 <p align="left"> <img src ="https://i.gifer.com/7JLy.gif">
 
