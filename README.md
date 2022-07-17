@@ -26,9 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 [RetroScream](https://discord.gg/JXvPJ6mkXS)
-**My discord id**
+<p>
+ **My discord id**
 - Oneside=_=#6891
-
+</p>
 _Dms are cloesd so you can join this minimilistic server_
 
 <p align="left">
