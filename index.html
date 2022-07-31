@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homepage</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <a href="#" class="logo"><h1>FINIXY vpn</h1></a>
+            <ul>
+                <li><a href="#" class="active">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </header>
+        <section>
+            <img src="images/stars.png" id="stars">
+            <img src="images/moon.png" id="moon">
+            <img src="images/mountains_behind.png" id="mountains_behind">
+            <h2 id="text">FINIXYvpn..</h2>
+            <a href="#sec" id="btn">Explore</a>
+            <img src="images/mountains_front.png" id="mountains_front">
+        </section>
+        <div class="sec" id="sec">
+            <h2>About finixy vpn</h2>
+            <p>
+                So this is just a example paragraph.Tum itna hi h na to kuchh din phle wish karne honge to the aaj tak ke liye bne ho gya hai na ki waisi koi ni h you are such a brave enough to make sure that you are such a good morning wo khana gyb rhta h<br><br>International postage and packaging and containers for the year again when we all pledge to change the world and the year and the fact that you are such a brave and courageous youth.<br><br>International postage and packaging and containers for the year again when we all pledge to change the world and the year and the fact that you are such a brave and courageous youthTum itna hi h na to kuchh din phle wish karne honge to the aaj tak ke liye bne ho gya hai na ki waisi koi ni h you are such a brave enough to make sure that you are such a good morning wo khana gyb rhta hTum itna hi h na to kuchh din phle wish karne honge to the aaj tak ke liye bne ho gya hai na ki waisi koi ni h you are such a b
+            </p>
+        </div>
+        <script>
+            let stars = document.getElementById('stars');
+            let moon = document.getElementById('moon');
+            let mountains_behind = document.getElementById('mountains_behind');
+            let text = document.getElementById('text')
+            let btn = document.getElementById('btn');
+            let mountains_front = document.getElementById('mountins_front');
+            let header = document.querySelector('header');
+
+            window.addEventListener('scroll',function(){
+                let value = window.scrollY;
+                stars.style.left = value * 0.25 + 'px';
+                moon.style.top = value * 1.05 + 'px';
+                mountains_behind.style.top = value * 0.05 + 'px';
+                text.style.marginRight = value * 2 + 'px';
+                text.style.marginTop = value * 0.2 + 'px';
+                mountains_front.style.top = value * 0 + 'px';
+                btn.style.marginTop = value * 1.5 + 'px';
+                header.style.top = value * 0.5 + 'px';
+            })
+        </script>
+    </body>
+    <!--text.style.marginRight = value * 4 + 'px';
+                text.style.marginTop = value * 1.5 + 'px';
+            
+            right: -350px;
+        -->
+
+
+</html>
